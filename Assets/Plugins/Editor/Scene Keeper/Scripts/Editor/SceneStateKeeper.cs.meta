@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6c315fe9dd52f4e1686bbcc9cd3c0277
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 184494
+  packageName: Scene Keeper
+  packageVersion: 0.1.1
+  assetPath: Assets/Scene Keeper/Scripts/Editor/SceneStateKeeper.cs
+  uploadId: 405394

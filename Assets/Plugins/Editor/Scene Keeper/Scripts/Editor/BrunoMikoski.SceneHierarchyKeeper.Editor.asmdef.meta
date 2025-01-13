@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6bab3ddee6d9e4622bfba4235b41dfd2
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 184494
+  packageName: Scene Keeper
+  packageVersion: 0.1.1
+  assetPath: Assets/Scene Keeper/Scripts/Editor/BrunoMikoski.SceneHierarchyKeeper.Editor.asmdef
+  uploadId: 405394

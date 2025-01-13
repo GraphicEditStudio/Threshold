@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 0a5e1eb9a8e040f0a23f5d63d2b660ea
+timeCreated: 1607456288
+AssetOrigin:
+  serializedVersion: 1
+  productId: 184494
+  packageName: Scene Keeper
+  packageVersion: 0.1.1
+  assetPath: Assets/Scene Keeper/Scripts/Editor/UnityHierarchyTools.cs
+  uploadId: 405394

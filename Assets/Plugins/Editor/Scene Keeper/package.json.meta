@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0b93fe46386b0497aaa155868dc2f43a
+PackageManifestImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 184494
+  packageName: Scene Keeper
+  packageVersion: 0.1.1
+  assetPath: Assets/Scene Keeper/package.json
+  uploadId: 405394

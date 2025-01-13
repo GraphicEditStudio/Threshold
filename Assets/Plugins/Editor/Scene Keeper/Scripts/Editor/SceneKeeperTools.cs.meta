@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 1a50e0e4c7ca4c23a856f91feae344c4
+timeCreated: 1607026443
+AssetOrigin:
+  serializedVersion: 1
+  productId: 184494
+  packageName: Scene Keeper
+  packageVersion: 0.1.1
+  assetPath: Assets/Scene Keeper/Scripts/Editor/SceneKeeperTools.cs
+  uploadId: 405394
